@@ -10,9 +10,9 @@ It is future-proof and designed to be interoperable with multiple independent im
 # Terminology
 
 * A Log entry consists of three parts:
-1. Date - Date (and time) associated with the entry
-2. Timestamp - the time when the entry was created or last updated.
-3. Message - the message of the log entry
+    1. Date - Date (and time) associated with the entry
+    2. Timestamp - the time when the entry was created or last updated.
+    3. Message - the message of the log entry
 
 
 # Syntax
@@ -22,7 +22,6 @@ It is future-proof and designed to be interoperable with multiple independent im
 * The second line of the entry must be 'Timestamp'
 * The third line begins the 'Message' block, and it ends with a blank line. The only requirement for an entry message is that it cannot contain a blank line.
 
-## Structure
 
 ```text
 ENTRY1 DATETIME
