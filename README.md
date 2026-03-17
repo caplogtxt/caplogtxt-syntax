@@ -3,8 +3,7 @@ A primer on the syntax of the caplog.txt log file format.
 
 # Description
 
-Caplog.txt is an open, plaintext syntax for formatting and structuring log files. It is both machine-readable and human-readable. 
-It is future-proof and designed to be interoperable with multiple independent implementations. The plain text syntax is inspired by TODO.txt project. The concept and the name are inspired from Star Trek. 
+Caplog.txt is an open, plaintext syntax for formatting and structuring log files. It is both machine-readable and human-readable. It is future-proof and interoperable with multiple independent implementations. The plaintext syntax is inspired by the TODO.txt project. The concept and the name are inspired by Star Trek.
 
 
 # Terminology
